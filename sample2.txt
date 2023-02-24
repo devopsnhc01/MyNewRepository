@@ -1,0 +1,1 @@
+git init this commamd will initialise the directory for git hub interaction
